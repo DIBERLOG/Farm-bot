@@ -1,0 +1,3 @@
+https://github.com/vsmutok/PuzzleCaptchaSolver
+Commit: acd29a5bc5d66147e941699f221239a27a29bac8
+MIT License. Upstream source kept unmodified.

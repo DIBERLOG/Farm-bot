@@ -1,9 +1,0 @@
-path: datasets/farmbar
-train: images/train
-val: images/val
-
-names:
-  0: ball
-  1: goal
-  2: small
-  3: triangle

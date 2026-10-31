@@ -1,18 +1,25 @@
 __pycache__/
 *.py[cod]
 .venv/
-venv/
-
-# Generated build output
-build/
-dist/
-releases/
-
-# Training/runtime artifacts
-datasets/
-runs/
-farmbar_bot.log
-debug_current_full.png
-
-# Large downloaded base model can be fetched again.
-yolo11n.pt
+native-ui/target/
+*.exe
+*.log
+.controller.lock
+.deepseek*
+.env*
+emergency.json
+settings.json
+production.json
+production-state.json
+production-*-state.json
+army-options.json
+statistics.json
+character.txt
+campaign-status.txt
+captcha-profile.json
+captcha-last.png
+bot-screen.png
+detail.png
+screen.png
+*-ocr.png
+*.tmp
